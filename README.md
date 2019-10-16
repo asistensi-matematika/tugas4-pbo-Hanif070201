@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Muhammad Hanif Sulaiman Iskandar
 
-NRP: `isi nrp disini`
+NRP: 06111840000087
 
 ## Deskripsi Tugas
 
@@ -32,7 +32,18 @@ NRP: `isi nrp disini`
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+Soal 1
+![Tugas4Soal1](https://user-images.githubusercontent.com/56248817/66922244-e44fdd80-f050-11e9-86ba-5b04eca6fe4e.PNG)
+
+Soal 2
+![Tugas4Soal2](https://user-images.githubusercontent.com/56248817/66922245-e44fdd80-f050-11e9-9667-02fd89402954.PNG)
+
+Soal 3
+![Tugas4Soal3](https://user-images.githubusercontent.com/56248817/66922246-e4e87400-f050-11e9-998b-9a516d90969e.PNG)
+
+Soal 4
+![Tugas4Soal4](https://user-images.githubusercontent.com/56248817/66922247-e4e87400-f050-11e9-904f-5ef3cf0c9b3b.PNG)
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
